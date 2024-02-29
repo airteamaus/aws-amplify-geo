@@ -181,6 +181,7 @@ export function mapSearchOptions(options, locationServiceInput) {
 	locationServiceModifiedInput.FilterCountries = options.countries;
 	locationServiceModifiedInput.MaxResults = options.maxResults;
 	locationServiceModifiedInput.Language = options.language;
+	locationServiceModifiedInput.Categories = options.categories;
 
 	if (options.searchIndexName) {
 		locationServiceModifiedInput.IndexName = options.searchIndexName;
