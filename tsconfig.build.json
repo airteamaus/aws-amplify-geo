@@ -1,4 +1,6 @@
 {
 	"extends": "./tsconfig.json",
+	"noEmitOnError": true,
+	"skipLibCheck": true,
 	"exclude": ["__tests__", "coverage", "coverage-ts", "dist"]
 }

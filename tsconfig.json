@@ -1,7 +1,29 @@
 {
-	"extends": "../../tsconfig.json",
 	"compilerOptions": {
-		"noImplicitAny": false
+		"declaration": true,
+		"downlevelIteration": true,
+		"esModuleInterop": true,
+		"importHelpers": true,
+		"incremental": true,
+		"lib": [
+			"dom",
+			"dom.iterable",
+			"es2017",
+			"esnext.asynciterable",
+			"es2018.asyncgenerator",
+			"es2019",
+			"es2020.promise"
+		],
+		"moduleResolution": "node",
+		"noImplicitAny": true,
+		"strict": true,
+		"sourceMap": true,
+		"resolveJsonModule": true,
+		"target": "es2020",
+		"module": "es2020",
+		"types": ["node"],
+		"noEmitOnError": false,
+		"skipLibCheck": true,
 	},
-	"include": ["./src", "__tests__"]
+	"exclude": ["node_modules", "dist", ".eslintrc.js", "scripts"]
 }
