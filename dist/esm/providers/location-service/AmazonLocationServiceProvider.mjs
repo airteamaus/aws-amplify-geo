@@ -75,7 +75,7 @@ class AmazonLocationServiceProvider {
          */
         let locationServiceInput = {
             Text: text,
-            IndexName: this._config.search_indices.default || this?._config?.Geo?.LocationService?.search_indices?.default,
+            IndexName: this._config?.search_indices?.default || this?._config?.Geo?.LocationService?.search_indices?.default,
         };
         /**
          * Map search options to Amazon Location Service input object
@@ -129,7 +129,7 @@ class AmazonLocationServiceProvider {
          */
         let locationServiceInput = {
             Text: text,
-            IndexName: this._config.search_indices.default,
+            IndexName: this._config?.search_indices?.default || this?._config?.Geo?.LocationService?.search_indices?.default,
         };
         /**
          * Map search options to Amazon Location Service input object

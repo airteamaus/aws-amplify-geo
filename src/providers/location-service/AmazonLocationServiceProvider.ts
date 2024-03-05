@@ -155,7 +155,7 @@ export class AmazonLocationServiceProvider implements GeoProvider {
 		 */
 		let locationServiceInput: SearchPlaceIndexForTextCommandInput = {
 			Text: text,
-			IndexName: this._config.search_indices.default || this?._config?.Geo?.LocationService?.search_indices?.default,
+			IndexName: this._config?.search_indices?.default || this?._config?.Geo?.LocationService?.search_indices?.default,
 		};
 
 		/**
@@ -222,7 +222,7 @@ export class AmazonLocationServiceProvider implements GeoProvider {
 		 */
 		let locationServiceInput: SearchPlaceIndexForSuggestionsCommandInput = {
 			Text: text,
-			IndexName: this._config.search_indices.default,
+			IndexName: this._config?.search_indices?.default || this?._config?.Geo?.LocationService?.search_indices?.default,
 		};
 
 		/**
