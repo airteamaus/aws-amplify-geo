@@ -21225,7 +21225,6 @@ class AmazonLocationServiceProvider {
                 ...(0,_util_mjs__WEBPACK_IMPORTED_MODULE_2__.mapSearchOptions)(options, locationServiceInput),
             };
         }
-        console.log(locationServiceInput, 'locationServiceInput');
         const client = new _aws_sdk_client_location__WEBPACK_IMPORTED_MODULE_3__.LocationClient({
             credentials: this._credentials,
             region: this._config.region,
@@ -21270,7 +21269,6 @@ class AmazonLocationServiceProvider {
             Text: text,
             IndexName: this._config?.search_indices?.default || this?._config?.Geo?.LocationService?.search_indices?.default,
         };
-        console.log(this._config);
         /**
          * Map search options to Amazon Location Service input object
          */
