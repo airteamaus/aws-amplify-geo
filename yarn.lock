@@ -15,9 +15,9 @@
     "@jridgewell/gen-mapping" "^0.3.5"
     "@jridgewell/trace-mapping" "^0.3.24"
 
-"@aws-amplify/core@6.0.18":
+"@aws-amplify/core@^6.0.18":
   version "6.0.18"
-  resolved "https://registry.npmjs.org/@aws-amplify/core/-/core-6.0.18.tgz"
+  resolved "https://registry.yarnpkg.com/@aws-amplify/core/-/core-6.0.18.tgz#999da0293b1d0cf0dfaf23b47a912fea63262df6"
   integrity sha512-TfeYMAeSo15aG69CHVIoDZIUYlce4EcPhNTnuNIll4cTVYe3MgitgToE0mhRovqba1YHEgYcdoYsTfFJYyhvxg==
   dependencies:
     "@aws-crypto/sha256-js" "5.2.0"
