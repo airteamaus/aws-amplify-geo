@@ -182,7 +182,7 @@ export function mapSearchOptions(options, locationServiceInput) {
 	locationServiceModifiedInput.FilterCountries = options.countries;
 	locationServiceModifiedInput.MaxResults = options.maxResults;
 	locationServiceModifiedInput.Language = options.language;
-	locationServiceModifiedInput.FilterCategories = ["AddressType", "RegionType", "SubRegionType", "MunicipalityType", "NeighborhoodType"];
+	locationServiceModifiedInput.FilterCategories = options.categories;
 
 	if (options.searchIndexName) {
 		locationServiceModifiedInput.IndexName = options.searchIndexName;
