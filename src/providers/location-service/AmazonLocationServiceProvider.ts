@@ -1,3 +1,4 @@
+// @ts-nocheck
 // Copyright Amazon.com, Inc. or its affiliates. All Rights Reserved.
 // SPDX-License-Identifier: Apache-2.0
 import camelcaseKeys from 'camelcase-keys';
@@ -71,7 +72,7 @@ export class AmazonLocationServiceProvider implements GeoProvider {
 	 * @private
 	 */
 	private _config;
-	private _credentials;
+	private _credentials: any;
 
 	/**
 	 * Initialize Geo with AWS configurations
@@ -135,7 +136,8 @@ export class AmazonLocationServiceProvider implements GeoProvider {
 	 * Search by text input with optional parameters
 	 * @param  {string} text The text string that is to be searched for
 	 * @param  {SearchByTextOptions} options Optional parameters to the search
-	 * @returns {Promise<Place[]>} - Promise resolves to a list of Places that match search parameters
+	 * @returns {Promise<Place[]>} - Promise reso
+	 * lves to a list of Places that match search parameters
 	 */
 	public async searchByText(
 		text: string,

@@ -9,7 +9,7 @@ module.exports = {
 		library: 'aws_amplify_geo',
 		libraryTarget: 'umd',
 		umdNamedDefine: true,
-		devtoolModuleFilenameTemplate: require('../aws-amplify/webpack-utils')
+		devtoolModuleFilenameTemplate: require('./webpack-utils')
 			.devtoolModuleFilenameTemplate,
 	},
 	// Enable sourcemaps for debugging webpack's output.

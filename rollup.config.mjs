@@ -3,13 +3,13 @@
 
 import { defineConfig } from 'rollup';
 import typescript from '@rollup/plugin-typescript';
-import { getInputForGlob } from '../../rollup/utils.mjs';
+import { getInputForGlob } from './rollup/utils.mjs';
 import {
 	cjsOutput,
 	cjsTSOptions,
 	esmOutput,
 	esmTSOptions,
-} from '../../rollup/common.mjs';
+} from './rollup/common.mjs';
 
 const input = getInputForGlob('src/**/*.ts');
 
