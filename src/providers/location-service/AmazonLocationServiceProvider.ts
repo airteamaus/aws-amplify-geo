@@ -224,7 +224,7 @@ export class AmazonLocationServiceProvider implements GeoProvider {
 			Text: text,
 			IndexName: this._config?.search_indices?.default || this?._config?.Geo?.LocationService?.search_indices?.default,
 		};
-
+		console.log(this._config);
 		/**
 		 * Map search options to Amazon Location Service input object
 		 */
