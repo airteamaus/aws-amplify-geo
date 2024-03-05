@@ -167,6 +167,7 @@ export class AmazonLocationServiceProvider implements GeoProvider {
 				...mapSearchOptions(options, locationServiceInput),
 			};
 		}
+		console.log(locationServiceInput, 'locationServiceInput')
 
 		const client = new LocationClient({
 			credentials: this._credentials,

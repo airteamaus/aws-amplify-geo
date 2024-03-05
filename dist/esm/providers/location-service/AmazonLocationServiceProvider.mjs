@@ -86,6 +86,7 @@ class AmazonLocationServiceProvider {
                 ...mapSearchOptions(options, locationServiceInput),
             };
         }
+        console.log(locationServiceInput, 'locationServiceInput');
         const client = new LocationClient({
             credentials: this._credentials,
             region: this._config.region,
