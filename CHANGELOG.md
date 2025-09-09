@@ -3,6 +3,282 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.86](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.85...@aws-amplify/geo@3.0.86) (2025-08-06)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.85](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.84...@aws-amplify/geo@3.0.85) (2025-07-23)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.84](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.83...@aws-amplify/geo@3.0.84) (2025-07-03)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.83](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.82...@aws-amplify/geo@3.0.83) (2025-07-02)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.82](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.81...@aws-amplify/geo@3.0.82) (2025-06-17)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.81](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.80...@aws-amplify/geo@3.0.81) (2025-05-27)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.80](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.79...@aws-amplify/geo@3.0.80) (2025-04-28)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.79](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.78...@aws-amplify/geo@3.0.79) (2025-04-21)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.78](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.77...@aws-amplify/geo@3.0.78) (2025-04-09)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.77](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.76...@aws-amplify/geo@3.0.77) (2025-03-28)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.76](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.75...@aws-amplify/geo@3.0.76) (2025-03-25)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.75](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.74...@aws-amplify/geo@3.0.75) (2025-03-21)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.74](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.73...@aws-amplify/geo@3.0.74) (2025-03-14)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.73](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.72...@aws-amplify/geo@3.0.73) (2025-03-07)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.72](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.71...@aws-amplify/geo@3.0.72) (2025-03-05)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.71](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.70...@aws-amplify/geo@3.0.71) (2025-02-27)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.70](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.69...@aws-amplify/geo@3.0.70) (2025-02-20)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.69](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.68...@aws-amplify/geo@3.0.69) (2025-02-12)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.68](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.67...@aws-amplify/geo@3.0.68) (2025-02-04)
+
+### Bug Fixes
+
+- **deps:** fix more implicit deps and add linting ([#14137](https://github.com/aws-amplify/amplify-js/issues/14137)) ([22ca811](https://github.com/aws-amplify/amplify-js/commit/22ca811743f6729d3a00dd71726ff6b5afb44b53))
+
+## [3.0.67](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.66...@aws-amplify/geo@3.0.67) (2025-01-24)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.66](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.65...@aws-amplify/geo@3.0.66) (2025-01-14)
+
+### Bug Fixes
+
+- **geo:** Added missing interpolated property to Geo Place ([#10889](https://github.com/aws-amplify/amplify-js/issues/10889)) ([1515cab](https://github.com/aws-amplify/amplify-js/commit/1515cabf1d1dd643cece2bcccf971f2a771ab36c))
+
+## [3.0.65](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.64...@aws-amplify/geo@3.0.65) (2025-01-03)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.64](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.63...@aws-amplify/geo@3.0.64) (2024-12-19)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.63](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.62...@aws-amplify/geo@3.0.63) (2024-12-12)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.62](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.61...@aws-amplify/geo@3.0.62) (2024-12-03)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.61](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.60...@aws-amplify/geo@3.0.61) (2024-12-03)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.60](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.59...@aws-amplify/geo@3.0.60) (2024-11-25)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.59](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.58...@aws-amplify/geo@3.0.59) (2024-11-20)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.58](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.57...@aws-amplify/geo@3.0.58) (2024-11-13)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.57](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.56...@aws-amplify/geo@3.0.57) (2024-11-12)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.56](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.55...@aws-amplify/geo@3.0.56) (2024-10-31)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.55](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.54...@aws-amplify/geo@3.0.55) (2024-10-29)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.54](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.53...@aws-amplify/geo@3.0.54) (2024-10-25)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.53](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.52...@aws-amplify/geo@3.0.53) (2024-10-21)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.52](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.51...@aws-amplify/geo@3.0.52) (2024-10-15)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.51](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.50...@aws-amplify/geo@3.0.51) (2024-10-05)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.50](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.49...@aws-amplify/geo@3.0.50) (2024-09-30)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.49](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.48...@aws-amplify/geo@3.0.49) (2024-09-17)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.48](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.47...@aws-amplify/geo@3.0.48) (2024-09-16)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.47](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.46...@aws-amplify/geo@3.0.47) (2024-09-04)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.46](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.45...@aws-amplify/geo@3.0.46) (2024-09-03)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.45](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.44...@aws-amplify/geo@3.0.45) (2024-08-26)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.44](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.43...@aws-amplify/geo@3.0.44) (2024-08-21)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.43](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.42...@aws-amplify/geo@3.0.43) (2024-08-15)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.42](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.41...@aws-amplify/geo@3.0.42) (2024-08-07)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.41](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.40...@aws-amplify/geo@3.0.41) (2024-08-05)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.40](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.39...@aws-amplify/geo@3.0.40) (2024-07-23)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.39](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.38...@aws-amplify/geo@3.0.39) (2024-07-22)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.38](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.37...@aws-amplify/geo@3.0.38) (2024-07-19)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.37](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.36...@aws-amplify/geo@3.0.37) (2024-07-08)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.36](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.35...@aws-amplify/geo@3.0.36) (2024-06-24)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.35](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.34...@aws-amplify/geo@3.0.35) (2024-06-07)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.34](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.33...@aws-amplify/geo@3.0.34) (2024-06-04)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.33](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.32...@aws-amplify/geo@3.0.33) (2024-05-23)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.32](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.31...@aws-amplify/geo@3.0.32) (2024-05-23)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.31](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.30...@aws-amplify/geo@3.0.31) (2024-05-13)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.30](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.29...@aws-amplify/geo@3.0.30) (2024-05-07)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.29](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.28...@aws-amplify/geo@3.0.29) (2024-04-29)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## [3.0.28](https://github.com/aws-amplify/amplify-js/compare/@aws-amplify/geo@3.0.27...@aws-amplify/geo@3.0.28) (2024-04-22)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## 3.0.27 (2024-04-02)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## 3.0.26 (2024-04-01)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## 3.0.25 (2024-03-30)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## 3.0.24 (2024-03-29)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## 3.0.23 (2024-03-25)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## 3.0.22 (2024-03-25)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## 3.0.21 (2024-03-19)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## 3.0.20 (2024-03-11)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
+## 3.0.19 (2024-03-05)
+
+**Note:** Version bump only for package @aws-amplify/geo
+
 ## 3.0.18 (2024-02-27)
 
 **Note:** Version bump only for package @aws-amplify/geo
